@@ -42,6 +42,7 @@ h1{
     top: 0;
     left: 0;
     background-color: rgba(0,0,0,0.8);
+    /* display: none; */
 }
 #modal-window{
     width: 150px;
