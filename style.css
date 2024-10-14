@@ -72,13 +72,17 @@ h1{
 }
 .footer{
     height: 108px;
-  padding-inline: 11.5rem;
-  width: 82%;
-  background-color: wheat;
-  margin: 0 auto;
+    padding-inline: 11.5rem;
+    width: 46%;
+    background-color: wheat;
+    margin: 0 auto;
+      margin-top: 0px;
     margin-top: 0px;
-  margin-top: 285px;
+    margin-top: 480px;
+    border-radius: 117px;
+    margin-top: 100px;
   }
+
   .footer ul{
     align-items: center;
     display: flex;
